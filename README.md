@@ -1,24 +1,21 @@
 # lojinhaWebAutomacao
 Automação com selenium e java 
 
-📚 Funcionalidades
-Funcionalidade 1: O que essa funcionalidade faz?
+📚 Funcionalidades:
+  -  O que essa funcionalidade faz?
 
 
-💻 Tecnologias utilizadas
-Tecnologia;
+💻 Tecnologias utilizadas:
+  - Java
+  - Selenium
 
-
-🚀 Rodando o projeto
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+🚀 Rodando o projeto:
+  -  Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 
 <linha de comando>
   
-🔜 Implementação futura
-O que será implementado na próxima sprint?
-
-🤝 Colaboradores
+🤝 Colaboradores:
 *****
 
-🎯 Status do projeto
+🎯 Status do projeto: 
 
